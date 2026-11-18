@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+My name is Lakshya Acharya
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+i learned how to write psudocode , how to slove problem , how to think logically 
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+because i want to amke carrier in software field 
 
 ## My Career Goal
 
-Write the role you want to achieve.
+enter in it sector
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences: push code 
 
-Programming means:
+Programming means: sloving problem using code 
 
-Python is:
+Python is: easy language for beginner
 
-In this track, I will learn:
+In this track, I will learn: python 
