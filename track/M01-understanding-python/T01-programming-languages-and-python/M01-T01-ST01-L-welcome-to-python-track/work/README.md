@@ -16,3 +16,4 @@ The way we write instructions changed. Pseudocode uses simple English-like state
 I understand that programming is about solving problems using instructions, and Python is a language that helps us write those instructions in a way that computers can understand.
 9. Programming Helps Me:
 Programming helps me solve problems, develop applications, improve my logical thinking, and create new things using technology.
+
