@@ -17,3 +17,19 @@ I understand that programming is about solving problems using instructions, and 
 9. Programming Helps Me:
 Programming helps me solve problems, develop applications, improve my logical thinking, and create new things using technology.
 
+
+Question 1: A computer needs instructions to know what tasks to perform and how to perform them.
+
+Question 2: Normal human language is ambiguous, and computers cannot understand it directly.
+
+Question 3: A computer ultimately executes machine code (binary instructions).
+
+Question 4: Machine language is difficult because it uses long sequences of 0s and 1s.
+
+Question 5: A programming language acts as a bridge between human logic and computer instructions.
+
+Question 6: Syntax rules help computers understand instructions correctly.
+
+Question 7: Programming languages divide complex applications into smaller, manageable parts.
+
+Question 8: Python converts human-written code into instructions that the computer can execute.
